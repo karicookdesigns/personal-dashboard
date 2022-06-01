@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img alt="News API" src="https://karicookdesigns.github.io/news-articles-api/src/img/Dashboard-Mockup.png" />
+  <img alt="News API" src="https://github.com/karicookdesigns/personal-dashboard/blob/main/src/img/Dashboard-Mockup.png" />
 </h1>
 
 ## :speech_balloon: About
