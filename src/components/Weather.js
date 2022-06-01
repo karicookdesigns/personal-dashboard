@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { WeatherDay } from '../WeatherDay/WeatherDay';
+import { WeatherDay } from './WeatherDay';
 
 const Weather = () => {
 
